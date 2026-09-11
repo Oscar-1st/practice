@@ -12,4 +12,4 @@ print("result:", result)
 (3) CONSTANTS -> True, False, None
 '''
 
-print(dir(__dict__))
+# print(dir(__builtins__)) -> view built in tools
